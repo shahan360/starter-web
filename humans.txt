@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shashank Bhushan shashank@git.training @shashankX
 
 # THANKS
 
